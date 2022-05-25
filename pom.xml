@@ -11,7 +11,7 @@
 	<groupId>com.sec.jwt</groupId>
 	<artifactId>SpringProcessCheck-Recieve</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>SpringProcessCheck-Recieve</name>
 	<description>This is a demo project for spring boot security jwt</description>
 	<properties>
